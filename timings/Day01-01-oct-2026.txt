@@ -1,0 +1,11 @@
+2 Hours - Online session in Morning
+1 Hour - Aws
+2 Hour - Ec2 Install
+1 Hour - Git
+
+
+Tommorow Task
+Will learn Linux
+Basic Linux Installation
+Ec2 Connect
+Git Hub connection
